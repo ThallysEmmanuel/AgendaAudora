@@ -498,7 +498,7 @@ body {
 .hour-and-day li {
   display: inline-block;
   list-style: none;
-  margin-right: 29%;
+  margin-right: 27%;
 }
 .hour-and-day li .hour {
   font-weight: 600;
